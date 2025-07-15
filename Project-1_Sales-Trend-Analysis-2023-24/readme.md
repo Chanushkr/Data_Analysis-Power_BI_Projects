@@ -106,7 +106,7 @@ Review profitability and sales performance by product and category.
 
 ## 📦 Version Info
 
-- **Latest PBIX File:** `Sales_Analysis - v1.pbix`  
+- **Latest PBIX File:** `Sales_Analysis - v2.pbix`  
 This updated version includes enhancements such as:
   - Additional KPIs in the **Trend Analysis** page to show current vs. previous month comparisons.
   - New card visuals in the **Product Performance** page to highlight distinct product, category, and region counts.
