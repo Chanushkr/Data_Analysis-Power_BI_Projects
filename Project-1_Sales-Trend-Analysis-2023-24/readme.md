@@ -33,6 +33,8 @@ Key performance metrics and high-level summaries.
 ### 2️⃣ **Trend Analysis**
 Track changes over time using comparative growth metrics.
 
+- 🧾 Card Visuals:  (Updated)
+  - Monthly Sales, Profit, and Orders – compares current month to previous month with growth/decline indicators.
 - 📈 **Line Chart**:  
   - `Total Sales` & `Total Profit` by `Month`
 - 📊 **Clustered Bar Chart**:  
@@ -59,6 +61,8 @@ Understand customer behavior, value, and contributions.
 ### 4️⃣ **Product Performance**
 Review profitability and sales performance by product and category.
 
+- 🧾 Card Visuals:  (Updated)
+  - Total Products, Categories, Regions
 - 📈 **Line Chart**:  
   - Total Profit by `Product`
 - 📋 **Table Visual**:  
@@ -91,10 +95,21 @@ Review profitability and sales performance by product and category.
 
 ├── sales_data_2023_2024.csv # Source data file
 
-├── Sales_Analysis.pbix # Power BI report file
+├── Sales_Analysis - v2.pbix # Power BI report file    (Updated)
+
+├── Sales_Analysis - v1.pbix # Power BI report file
 
 ├── README.md # Project documentation
 
+
+---
+
+## 📦 Version Info
+
+- **Latest PBIX File:** `Sales_Analysis - v1.pbix`  
+This updated version includes enhancements such as:
+  - Additional KPIs in the **Trend Analysis** page to show current vs. previous month comparisons.
+  - New card visuals in the **Product Performance** page to highlight distinct product, category, and region counts.
 
 ---
 
