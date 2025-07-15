@@ -90,7 +90,9 @@ Review profitability and sales performance by product and category.
 ## 📎 File Structure
 
 ├── sales_data_2023_2024.csv # Source data file
+
 ├── SalesAnalysis_Report.pbix # Power BI report file
+
 ├── README.md # Project documentation
 
 
@@ -100,6 +102,7 @@ Review profitability and sales performance by product and category.
 
 **Chanush KR**  
 🔗 LinkedIn: [linkedin.com/in/chanush-kr](linkedin.com/in/chanush-kr)
+
 🌐 Portfolio Website: [sites.google.com/view/chanushkr/home](sites.google.com/view/chanushkr/home)
 
 ---
