@@ -99,7 +99,7 @@ Review profitability and sales performance by product and category.
 ## 👤 Author
 
 **Chanush KR**  
-🔗 LinkedIn: linkedin.com/in/chanush-kr
-🌐 Portfolio Website: sites.google.com/view/chanushkr/home
+🔗 LinkedIn: [linkedin.com/in/chanush-kr](linkedin.com/in/chanush-kr)
+🌐 Portfolio Website: [sites.google.com/view/chanushkr/home](sites.google.com/view/chanushkr/home)
 
 ---
