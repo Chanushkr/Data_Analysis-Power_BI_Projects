@@ -91,7 +91,7 @@ Review profitability and sales performance by product and category.
 
 ├── sales_data_2023_2024.csv # Source data file
 
-├── SalesAnalysis_Report.pbix # Power BI report file
+├── Sales_Analysis.pbix # Power BI report file
 
 ├── README.md # Project documentation
 
