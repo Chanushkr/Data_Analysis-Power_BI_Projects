@@ -180,7 +180,7 @@ Customer loyalty, demographic patterns, repeat vs new buyers.
 **Chanush KR**  
 🔗 [LinkedIn](https://www.linkedin.com/in/chanush-kr)  
 🌐 [Portfolio Website](https://sites.google.com/view/chanushkr/home)  
-
+📌 [LinkedIn Post about this Project](https://www.linkedin.com/posts/chanush-kr_powerbi-dataanalytics-dashboarddesign-activity-7355621245268209665-vTFN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0Tw64BmW6pg1qf8-1ow9qOM-2tCEyFJRw)
 
 | 💼 Aspiring Data Scientist, Freelance Data Analyst, & Power BI Consultant
 
