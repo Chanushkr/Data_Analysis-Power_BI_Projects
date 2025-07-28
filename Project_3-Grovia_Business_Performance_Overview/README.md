@@ -80,8 +80,8 @@ Revenue trends, peak sales periods, and top-performing stores/products.
 
 **Filters**: Date, Store, Category
 
-### 🧾 Sales Overview Report
-![Sales Overview Screenshot](Report Page 1 - Executive Summary.JPG)
+![Sales Overview Screenshot](Executive_Summary.JPG)
+*Sales Overview Report
 
 ---
 
@@ -100,8 +100,8 @@ Revenue trends, peak sales periods, and top-performing stores/products.
 
 **Filters**: Date, Store, Products
 
-### 📊 Sales Analysis
-![Sales Analysis Screenshot](Report Page 2 - Sales Analysis.JPG)
+![Sales Analysis Screenshot](Sales_Analysis.JPG)
+*Sales Analysis
 
 ---
 
@@ -121,8 +121,8 @@ Revenue trends, peak sales periods, and top-performing stores/products.
 **Insights**  
 Customer loyalty, demographic patterns, repeat vs new buyers.
 
-### 👥 Customer Insights
-![Customer Insights Screenshot](Report Page 3 - Customer Insights.JPG)
+![Customer Insights Screenshot](Customer_Insights.JPG)
+*Customer Insights
 
 ---
 
