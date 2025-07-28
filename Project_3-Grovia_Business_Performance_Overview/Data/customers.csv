@@ -1,0 +1,101 @@
+CustomerID,CustomerName,Location,Phone,Email,Gender
+CUST1000,Anay Shanker,Whitefield,9780525215,mehulkrishnan@arya.net,Male
+CUST1001,Madhup Kapur,Indiranagar,9415870923,wbava@ramakrishnan-deo.com,Female
+CUST1002,Heer Bhatia,Indiranagar,9300764570,varmamehul@gmail.com,Male
+CUST1003,Ranbir Karan,Whitefield,9143630672,anahigupta@reddy-sankaran.net,Male
+CUST1004,Piya Gaba,BTM Layout,9383725108,pwagle@yahoo.com,Male
+CUST1005,Prerak Boase,Indiranagar,9373821508,shroffbadal@gmail.com,Female
+CUST1006,Mishti Buch,Indiranagar,9862023079,sanghviheer@sodhi-rege.com,Female
+CUST1007,Ritvik Kalla,Indiranagar,9446421355,umangsingh@madan.com,Female
+CUST1008,Ayesha Andra,Whitefield,9761004783,nirvikhanna@butala.org,Male
+CUST1009,Lakshit Madan,Indiranagar,9690729993,akarsh98@raja.com,Male
+CUST1010,Rhea Raval,Whitefield,9664138658,ydara@swamy-jani.com,Female
+CUST1011,Divit Sahni,Whitefield,9173203925,kanavloyal@boase-kakar.com,Male
+CUST1012,Anahi Dash,Whitefield,9683127878,zchhabra@gmail.com,Female
+CUST1013,Vaibhav Agarwal,Indiranagar,9475168561,shenoysaksham@bakshi.info,Female
+CUST1014,Bhavin Kumar,Whitefield,9456357211,kadakianirvi@mandal.com,Female
+CUST1015,Oorja Sehgal,BTM Layout,9334553833,luthralakshit@deo.com,Male
+CUST1016,Tushar Dhar,Indiranagar,9984428681,waliaemir@hotmail.com,Female
+CUST1017,Purab Dhaliwal,Indiranagar,9471522500,agarwalshamik@gmail.com,Male
+CUST1018,Ishaan Shanker,Indiranagar,9758956535,cbhatt@gopal-yogi.com,Male
+CUST1019,Lakshay Sanghvi,Indiranagar,9832883943,saraganesan@suresh-sami.com,Female
+CUST1020,Indranil Subramaniam,Indiranagar,9514331133,sahnikartik@gala-dewan.com,Female
+CUST1021,Stuvan Rege,Whitefield,9654982592,ugera@kamdar-raman.net,Female
+CUST1022,Veer Yogi,Whitefield,9147085363,misha51@yogi.com,Female
+CUST1023,Shaan Jaggi,Indiranagar,9651790232,doshireyansh@gmail.com,Male
+CUST1024,Vedika Mann,Whitefield,9930344435,tanksuhana@gmail.com,Male
+CUST1025,Mamooty Swaminathan,Indiranagar,9170299833,zkota@borah.com,Female
+CUST1026,Vanya Kala,Whitefield,9997288545,uramesh@hotmail.com,Male
+CUST1027,Ira Kapoor,Whitefield,9989862107,miraan45@warrior-madan.com,Male
+CUST1028,Indrajit D’Alia,Whitefield,9125504528,xhayer@sarin.org,Male
+CUST1029,Anvi Aggarwal,Whitefield,9193974854,yatwal@yahoo.com,Male
+CUST1030,Samaira Butala,BTM Layout,9952781636,dchand@gupta-gade.com,Male
+CUST1031,Shaan Ganguly,Indiranagar,9982207031,shroffaniruddh@chaudhry.org,Female
+CUST1032,Nakul Bhatnagar,BTM Layout,9516646839,emir90@mani-sandhu.biz,Male
+CUST1033,Saanvi Chaudhary,Whitefield,9439736473,darshit85@gmail.com,Female
+CUST1034,Ayesha Bera,BTM Layout,9674274037,utella@hotmail.com,Female
+CUST1035,Samarth Varkey,Indiranagar,9148873346,jivin73@yahoo.com,Female
+CUST1036,Shlok Dey,Indiranagar,9213962171,troy@kapur-sule.com,Female
+CUST1037,Ritvik Choudhry,Whitefield,9192884274,rati74@yahoo.com,Male
+CUST1038,Mehul Bhasin,BTM Layout,9524249629,thamankartik@yahoo.com,Male
+CUST1039,Taran Chakraborty,BTM Layout,9672806655,mangatraunak@khatri-kannan.com,Female
+CUST1040,Baiju Date,BTM Layout,9955525741,dashfateh@hotmail.com,Female
+CUST1041,Mahika Raju,Indiranagar,9254699931,singhlakshay@cherian.com,Male
+CUST1042,Nakul Chadha,Indiranagar,9694342064,rati71@hotmail.com,Female
+CUST1043,Prerak Subramaniam,BTM Layout,9144853569,vritikadube@shere.com,Female
+CUST1044,Gatik Kaur,Indiranagar,9687900972,lavanya40@gmail.com,Male
+CUST1045,Pari Toor,Indiranagar,9903477338,fravi@keer.biz,Female
+CUST1046,Samarth Sampath,BTM Layout,9793563667,samarth16@hotmail.com,Male
+CUST1047,Nirvi Virk,Indiranagar,9297560682,ira24@wable-sarkar.info,Female
+CUST1048,Aniruddh Rau,BTM Layout,9223075021,sabharwalindrans@yahoo.com,Male
+CUST1049,Diya Sastry,BTM Layout,9595279737,devitrisha@garde-subramaniam.net,Male
+CUST1050,Aarav Dhaliwal,Whitefield,9821216549,mdyal@hotmail.com,Female
+CUST1051,Kaira Handa,BTM Layout,9311975522,vohraadvika@gmail.com,Male
+CUST1052,Abram Sen,Indiranagar,9483474399,mishti78@gmail.com,Male
+CUST1053,Miraan Raval,Whitefield,9406163675,yashvi04@grover-kale.com,Female
+CUST1054,Eva Jha,BTM Layout,9441220048,anahiray@karpe-datta.com,Male
+CUST1055,Reyansh Sandhu,Whitefield,9761792646,evarkey@dani.org,Male
+CUST1056,Kashvi Divan,Indiranagar,9708663326,madhup39@sane-shroff.com,Female
+CUST1057,Mishti Roy,BTM Layout,9281075299,hanshsrivastava@vora.net,Female
+CUST1058,Ivan Dave,Indiranagar,9943596127,qamble@bhatia.com,Male
+CUST1059,Navya Grewal,Whitefield,9485995156,ibhardwaj@gmail.com,Male
+CUST1060,Romil Koshy,BTM Layout,9596979657,gsagar@randhawa-jani.com,Female
+CUST1061,Prisha Goyal,Whitefield,9622881542,gatikvala@yahoo.com,Female
+CUST1062,Nitara Cherian,Whitefield,9793155758,mehulgala@subramaniam.com,Male
+CUST1063,Hunar Bhattacharyya,BTM Layout,9987387141,prerakbal@shanker.net,Male
+CUST1064,Shanaya Balay,Whitefield,9887637532,brout@gmail.com,Male
+CUST1065,Yakshit Kala,Indiranagar,9644578566,vaibhav98@yahoo.com,Male
+CUST1066,Dishani Ramakrishnan,Whitefield,9328450041,gsethi@yahoo.com,Male
+CUST1067,Saksham Salvi,Indiranagar,9679473892,rajjhanvi@gala.biz,Female
+CUST1068,Nitya Sheth,Indiranagar,9521441892,emirgill@hotmail.com,Male
+CUST1069,Farhan Singh,Whitefield,9598969054,purabsarna@gara-gill.com,Male
+CUST1070,Hridaan Mandal,Indiranagar,9490697670,tushardugal@hotmail.com,Male
+CUST1071,Urvi Mander,BTM Layout,9356496309,rjohal@gmail.com,Female
+CUST1072,Shray Kale,Indiranagar,9250721880,romilcherian@singhal.com,Male
+CUST1073,Fateh Aggarwal,Indiranagar,9708121468,kamdaradvik@yahoo.com,Female
+CUST1074,Saksham Mani,Indiranagar,9485253781,dhruv61@gmail.com,Female
+CUST1075,Khushi Iyer,BTM Layout,9348839570,stuvan23@bora.com,Male
+CUST1076,Lavanya Bose,BTM Layout,9351275639,advikabandi@yahoo.com,Male
+CUST1077,Mohanlal Doshi,BTM Layout,9949824193,dhanuk19@hotmail.com,Female
+CUST1078,Anahi Mannan,Whitefield,9588169687,takshlok@hotmail.com,Female
+CUST1079,Dishani Roy,BTM Layout,9447968711,xjayaraman@yahoo.com,Female
+CUST1080,Vritika Raval,Indiranagar,9721300772,mannenitara@gmail.com,Female
+CUST1081,Sahil Sagar,BTM Layout,9801878526,xkumar@golla.com,Female
+CUST1082,Shlok Sinha,BTM Layout,9801514770,tiya92@guha.com,Male
+CUST1083,Saira Kanda,Indiranagar,9339336253,mzacharia@yahoo.com,Male
+CUST1084,Anahi Sodhi,Whitefield,9977501292,ishita18@gmail.com,Male
+CUST1085,Dharmajan Singh,BTM Layout,9748766605,horadamini@yahoo.com,Male
+CUST1086,Veer Baria,Whitefield,9277817899,nkapur@zachariah.com,Female
+CUST1087,Madhav Tiwari,Whitefield,9790928175,yreddy@karnik.info,Male
+CUST1088,Mohanlal Kurian,Whitefield,9300688440,lalataran@lall.net,Male
+CUST1089,Vidur Vohra,Indiranagar,9870197919,azadgoda@hotmail.com,Male
+CUST1090,Nayantara Chahal,Whitefield,9970989978,dugarsahil@issac.info,Male
+CUST1091,Armaan Shetty,Whitefield,9825022076,lgara@yahoo.com,Male
+CUST1092,Tushar Sur,Indiranagar,9734356903,gadenitara@dua-kapoor.org,Male
+CUST1093,Ivan Sant,Whitefield,9361639001,aniruddhbora@hotmail.com,Male
+CUST1094,Arhaan Bhatnagar,Whitefield,9736028462,esingh@hotmail.com,Male
+CUST1095,Eva Goswami,Indiranagar,9650446037,urvi47@ramesh.info,Male
+CUST1096,Gatik Bir,Indiranagar,9278607682,riyasavant@hotmail.com,Female
+CUST1097,Yashvi Golla,BTM Layout,9535355406,jsuri@gmail.com,Male
+CUST1098,Chirag Dubey,BTM Layout,9981867712,gokul89@gmail.com,Male
+CUST1099,Adah Krishnamurthy,BTM Layout,9582328432,dasskiaan@hotmail.com,Female
