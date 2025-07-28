@@ -182,6 +182,6 @@ Customer loyalty, demographic patterns, repeat vs new buyers.
 🌐 [Portfolio Website](https://sites.google.com/view/chanushkr/home)  
 
 
-| 💼 Aspiring Data Analyst & Power BI Consultant
+| 💼 Aspiring Data Scientist, Freelance Data Analyst, & Power BI Consultant
 
 ---
