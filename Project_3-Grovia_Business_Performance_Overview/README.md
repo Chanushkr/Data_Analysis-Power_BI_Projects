@@ -137,30 +137,19 @@ Customer loyalty, demographic patterns, repeat vs new buyers.
 ## 📁 Folder Structure (Sample)
 
 /Project_3-Grovia_Business_Performance_Overview
-│
 
+│
 ├── 📁 Data/
-
 │ ├── customers.csv
-
 │ ├── products.csv
-
 │ └── sales.csv
-
 │
-
 ├── 📁 Screenshots/
-
 │ └── Report Page 1 - Executive Summary.JPG
-
 │ └── Report Page 2 - Sales Analysis.JPG
-
 │ └── Report Page 3 - Customer Insights.JPG
-
 │
-
 ├── Grovia's Business Performance.pbix
-
 └── README.md
 
 ---
